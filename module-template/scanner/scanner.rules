@@ -1,0 +1,7 @@
+allow untrusted_app_30 bcr_proc_file dir { search getattr open read }
+allow untrusted_app_30 bcr_proc_file file { open read write getattr }
+allow untrusted_app_30 bcr_device chr_file { open read write ioctl getattr }
+allow untrusted_app_30 camera_prop file { open read getattr map }
+allow untrusted_app_30 pmc_bcr_prop file { open read getattr map }
+typeattribute bcr_proc_file mlstrustedobject
+typeattribute bcr_device mlstrustedobject

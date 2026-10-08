@@ -1,0 +1,89 @@
+{
+  "scope": "Reference hashes for the privately tested configuration; binaries excluded.",
+  "artifacts": [
+    {
+      "role": "A11 modem_a",
+      "filename": "modem-android11.img",
+      "bytes": 115343360,
+      "sha256": "712554b37b3a7ad88d5a61fbcb57de57739f22ff3e8c5d308c7de1a4a7052c39",
+      "distributed_here": false
+    },
+    {
+      "role": "A11 dsp_a",
+      "filename": "dsp-android11.img",
+      "bytes": 16777216,
+      "sha256": "b645f0c6b0b8911fde90d003fce65501b6a46ce4be15299d894b6498a64c449b",
+      "distributed_here": false
+    },
+    {
+      "role": "A11 system_a",
+      "filename": "system.img",
+      "bytes": 4026531840,
+      "sha256": "61f1e74283699a07f2d89a7e46d9ac3158a715a2fd593524f5d522b3fb7a0541",
+      "distributed_here": false
+    },
+    {
+      "role": "A11 vendor_a",
+      "filename": "vendor.img",
+      "bytes": 2147483648,
+      "sha256": "1f48d3d107b5f9a9319e210bae86cbac12a0268eca6f8f3137719559e68bd785",
+      "distributed_here": false
+    },
+    {
+      "role": "A11 stock boot_a",
+      "filename": "boot-android11-full-64MiB.img",
+      "bytes": 67108864,
+      "sha256": "30a5cb47c349cb5e7c5d248a3e3004220a3d06d2fe1a66631a5f3209f2edff6f",
+      "distributed_here": false
+    },
+    {
+      "role": "A11 Magisk boot_a",
+      "filename": "magisk-patched-full-64MiB.img",
+      "bytes": 67108864,
+      "sha256": "b0b7623d5204662baa073cb5d294ec912c890ad85222d72e82167a29858feb57",
+      "distributed_here": false
+    },
+    {
+      "role": "GSI verified boot_a",
+      "filename": "boot-early-diag-full-64MiB.img",
+      "bytes": 67108864,
+      "sha256": "a1012eebf4d684059eb56791d3c19b1ae8f540151fa5791573876eb7d2b0d954",
+      "distributed_here": false
+    },
+    {
+      "role": "Android16 sparse system_a",
+      "filename": "RestlessOS-arm64-ab-16.0.0-202606230923-sparse.img",
+      "bytes": 3122274812,
+      "sha256": "4315521bb6f6e9f5a38f0d88a477e0b48ce3330e1d56fe9e66715d2ecc54015f",
+      "distributed_here": false
+    },
+    {
+      "role": "Android11 sparse restore",
+      "filename": "Android11-system-restore-sparse.img",
+      "bytes": 3350099252,
+      "sha256": "f5ea1c0c661d31d3a1415306fae1734ef73e38ba299a07db744ca37af37a2a59",
+      "distributed_here": false
+    },
+    {
+      "role": "WiFi original libcfg",
+      "filename": "libcfg.so",
+      "bytes": 28320,
+      "sha256": "d16424ce97a81a571d91e15051de0ba66db397aff00c465245fdd666fea7df8c",
+      "distributed_here": false
+    },
+    {
+      "role": "WiFi patched libcfg",
+      "filename": "libcfg-byte-safe.so",
+      "bytes": 28320,
+      "sha256": "e6791b7be7d8517c875ece37a8433e6c0a91637db7f62715793179ac12aec0e1",
+      "distributed_here": false
+    },
+    {
+      "role": "Stock Suite module",
+      "filename": "FZ-N1-Stock-Suite-v3-validation.zip",
+      "bytes": 6122088,
+      "sha256": "30019d00aa28c4d7c1ceea937622ed463daa4940893282c5b976c86cc3871ab9",
+      "distributed_here": false
+    }
+  ]
+}

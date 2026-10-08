@@ -1,0 +1,6 @@
+id=fz-n1-userbutton-priv
+name=FZ-N1 Stock Apps and Scanner Suite
+version=3.0-validation
+versionCode=3
+author=FZ-N1 compatibility
+description=Unified validated scanner, buttons and diagnostics components. Other factory apps are audited separately, not blindly enabled.
